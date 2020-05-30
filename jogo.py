@@ -2,6 +2,7 @@ print("*********************************")
 print("Jogo de adivinhação!! ")
 print("*********************************")
 
+print("Boa sorte.")
 numero_secreto = 42                                 #Variaveis
 total_de_tentativas = 3
 

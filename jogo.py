@@ -1,5 +1,5 @@
 print("*********************************")
-print("Bem vindo ao jogo de Adivinhação!")
+print("Tente adivinhar o número! ")
 print("*********************************")
 
 numero_secreto = 42                                 #Variaveis

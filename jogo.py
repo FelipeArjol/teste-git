@@ -14,7 +14,7 @@ for rodada in range (1, total_de_tentativas + 1):                     #1 bloco d
   if(chute < 1):                                                      #2 bloco de execução
     print("Você deve digitar um número entre 1 e 50: ")
     continue
-  elif(chute > 100):
+  elif(chute > 50):
     print("Você deve digitar um número menor ou igual a 50: ")
   
 
